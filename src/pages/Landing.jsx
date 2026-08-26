@@ -152,10 +152,6 @@ export default function Landing() {
               {t.logInDash}
             </button>
           </div>
-          <div className="land-hero-proof fade-up">
-            <Check size={14} strokeWidth={2} color="#4ade80" aria-hidden="true" />
-            {t.openSource}
-          </div>
         </div>
       </section>
 
